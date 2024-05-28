@@ -1,0 +1,14 @@
+<p style="color: green"><%= notice %></p>
+
+<h1>Hardwares</h1>
+
+<div id="hardwares">
+  <% @hardwares.each do |hardware| %>
+    <%= render hardware %>
+    <p>
+      <%= link_to "Show this hardware", hardware %>
+    </p>
+  <% end %>
+</div>
+
+<%= link_to "New hardware", new_hardware_path %>
