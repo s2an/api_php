@@ -1,0 +1,2019 @@
+{
+  "total": 70,
+  "offset": 0,
+  "limit": 100,
+  "items": [
+      {
+          "oshwaUid": "IT000010",
+          "responsibleParty": "Sol Bekic",
+          "country": "Italy",
+          "publicContact": "s+oshwa@s-ol.nu",
+          "projectName": "0x33.board",
+          "projectWebsite": "https://s-ol.nu/0x33.board",
+          "projectVersion": "r3",
+          "projectDescription": "The 0x33.board is a 48-key isomorphic MIDI controller.\r\n\r\nIt supports USB-MIDI, TRS-MIDI (out only) and I2C. It also has a jack for 1-bit headphone output. The 48 keys of the main note surface are arranged in four staggered rows of twelve keys each. Each key has independent RGB backlighting that can be used to highlight scales, melodies or chords.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Arts",
+              "Tool",
+              "Other"
+          ],
+          "projectKeywords": [
+              "MIDI",
+              " mechanical",
+              " keyboard",
+              " RP2040"
+          ],
+          "citations": [],
+          "documentationUrl": "https://s-ol.nu/0x33.board",
+          "hardwareLicense": "CERN-OHL-S-2.0",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC-BY-4.0",
+          "certificationDate": "2022-08-05T00:00-04:00"
+      },
+      {
+          "oshwaUid": "DE000108",
+          "responsibleParty": "Conor Burns",
+          "country": "Germany",
+          "publicContact": "mail@0xcb.dev",
+          "projectName": "0xCB",
+          "projectWebsite": "https://github.com/0xCB-dev/0xcb-1337",
+          "projectVersion": "1.1",
+          "previousVersions": [
+              "DE000104"
+          ],
+          "projectDescription": "Mechanical Macropad, programmable with QMK and VIA",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "3D Printing",
+              "Manufacturing"
+          ],
+          "projectKeywords": [
+              "macropad",
+              " qmk",
+              " arduino",
+              " keyboard"
+          ],
+          "citations": [
+              {
+                  "url": "https://github.com/qmk/qmk_firmware",
+                  "title": "QMK"
+              }
+          ],
+          "documentationUrl": "https://github.com/0xCB-dev/0xcb-1337/blob/main/README.md",
+          "hardwareLicense": "CERN",
+          "softwareLicense": "GPL",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2021-04-16T00:00-04:00"
+      },
+      {
+          "oshwaUid": "DE000104",
+          "responsibleParty": "Conor Burns",
+          "country": "Germany",
+          "publicContact": "mail@0xcb.dev",
+          "projectName": "0xCB",
+          "projectWebsite": "https://github.com/conor-burns/0xcb-1337",
+          "projectVersion": "1.0",
+          "projectDescription": "Open Source PCB for a QMK macropad",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "3D Printing",
+              "Electronics",
+              "Manufacturing"
+          ],
+          "projectKeywords": [
+              "macropad",
+              "qmk",
+              "arduino",
+              "keyboard"
+          ],
+          "citations": [
+              {
+                  "url": "https://github.com/qmk/qmk_firmware",
+                  "title": "QMK Firmware"
+              }
+          ],
+          "documentationUrl": "https://github.com/Conor-Burns/0xcb-1337/blob/main/README.md",
+          "hardwareLicense": "CERN",
+          "softwareLicense": "GPL",
+          "documentationLicense": "CC BY",
+          "certificationDate": "2021-03-24T00:00-04:00"
+      },
+      {
+          "oshwaUid": "DE000112",
+          "responsibleParty": "Conor Burns",
+          "country": "Germany",
+          "publicContact": "mail@0xcb.dev",
+          "projectName": "0xCB 1337",
+          "projectWebsite": "https://github.com/0xcb-dev/0xcb-1337",
+          "projectVersion": "2.0",
+          "previousVersions": [
+              "DE000108",
+              "DE000108"
+          ],
+          "projectDescription": "Mechanical Macropad, programmable with QMK and VIA",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "3D Printing",
+              "Electronics",
+              "Manufacturing"
+          ],
+          "projectKeywords": [
+              "macropad",
+              " qmk",
+              " arduino",
+              " keyboard"
+          ],
+          "citations": [
+              {
+                  "url": "https://github.com/qmk/qmk_firmware",
+                  "title": "QMK"
+              }
+          ],
+          "documentationUrl": "https://github.com/0xCB-dev/0xcb-1337/tree/main/PCB/rev2.0",
+          "hardwareLicense": "CERN",
+          "softwareLicense": "GPL",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2021-05-27T00:00-04:00"
+      },
+      {
+          "oshwaUid": "DE000113",
+          "responsibleParty": "Conor Burns",
+          "country": "Germany",
+          "publicContact": "mail@0xcb.dev",
+          "projectName": "0xCB 1337",
+          "projectWebsite": "https://github.com/0xcb-dev/0xcb-1337",
+          "projectVersion": "3.0",
+          "previousVersions": [
+              "DE000108",
+              "DE000112"
+          ],
+          "projectDescription": "Mechanical Macropad, programmable with QMK and VIA",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "3D Printing",
+              "Electronics",
+              "Manufacturing"
+          ],
+          "projectKeywords": [
+              "macropad",
+              " qmk",
+              " arduino",
+              " keyboard"
+          ],
+          "citations": [
+              {
+                  "url": "https://github.com/qmk/qmk_firmware",
+                  "title": "QMK"
+              }
+          ],
+          "documentationUrl": "https://github.com/0xCB-dev/0xcb-1337/tree/main/PCB/rev3.0",
+          "hardwareLicense": "CERN",
+          "softwareLicense": "GPL",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2021-05-27T00:00-04:00"
+      },
+      {
+          "oshwaUid": "DE000131",
+          "responsibleParty": "Conor Burns",
+          "country": "Germany",
+          "publicContact": "mail@0xcb.dev",
+          "projectName": "0xCB Helios",
+          "projectWebsite": "https://github.com/0xCB-dev/0xCB-Helios",
+          "projectVersion": "1.0",
+          "projectDescription": "rp2040 based development board designed for use in keyboards replacing the Atmega32u4 based ProMicro (or similar board based on that chip).",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Education",
+              "Manufacturing"
+          ],
+          "projectKeywords": [
+              "QMK",
+              " rp2040",
+              " 0xCB",
+              " keyboard"
+          ],
+          "citations": [
+              {
+                  "url": "https://github.com/qmk/qmk_firmware",
+                  "title": "QMK"
+              },
+              {
+                  "url": "https://github.com/joshajohnson/sea-picro",
+                  "title": "Sea-Picro"
+              }
+          ],
+          "documentationUrl": "https://github.com/0xCB-dev/0xCB-Helios",
+          "hardwareLicense": "CERN-OHL-S-2.0",
+          "softwareLicense": "GPL-3.0-or-later",
+          "documentationLicense": "CC-BY-SA-4.0",
+          "certificationDate": "2023-01-11T00:00-05:00"
+      },
+      {
+          "oshwaUid": "DE000115",
+          "responsibleParty": "Conor Burns",
+          "country": "Germany",
+          "publicContact": "mail@0xcb.dev",
+          "projectName": "0xCB micro",
+          "projectWebsite": "https://github.com/0xCB-dev/0xcb-micro",
+          "projectVersion": "1.0",
+          "projectDescription": "A small controller that fits on top of one cherry style switch to handwire a 1% - 65% Keyboard. \r\nThe micro also supports RGB underglow and has a backlight driver.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "3D Printing",
+              "Electronics",
+              "Manufacturing"
+          ],
+          "projectKeywords": [
+              "QMK",
+              " arduino",
+              " DIY",
+              " handwired",
+              " keyboard"
+          ],
+          "citations": [
+              {
+                  "url": "https://github.com/qmk/qmk_firmware",
+                  "title": "QMK"
+              }
+          ],
+          "documentationUrl": "https://github.com/0xCB-dev/0xcb-micro",
+          "hardwareLicense": "CERN",
+          "softwareLicense": "GPL",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2021-06-30T00:00-04:00"
+      },
+      {
+          "oshwaUid": "DE000122",
+          "responsibleParty": "Conor Burns",
+          "country": "Germany",
+          "publicContact": "mail@0xcb.dev",
+          "projectName": "0xCB Pluto",
+          "projectWebsite": "https://github.com/0xCB-dev/0xCB-Pluto",
+          "projectVersion": "1.0",
+          "projectDescription": "Atmega32U4 based micro controller board in Pro Micro form factor, featuring a mid mount USB Type C port and exposing all available pins.\r\nThis makes it ideal to be used in mechanical keyboards as its also preflashed with the stable QMK-DFU bootloader.\r\n\r\nBut nothing is stopping you from tinkering with it as you can also use it as a normal  arduino :)",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Electronics",
+              "Manufacturing"
+          ],
+          "projectKeywords": [
+              "MK",
+              " Arduino",
+              " QMK",
+              " microcontroller"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/0xCB-dev/0xCB-Pluto",
+          "hardwareLicense": "CERN-OHL-S-2.0",
+          "softwareLicense": "GPL",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2022-01-28T00:00-05:00"
+      },
+      {
+          "oshwaUid": "DE000114",
+          "responsibleParty": "Conor Burns",
+          "country": "Germany",
+          "publicContact": "mail@0xcb.dev",
+          "projectName": "0xCB Static",
+          "projectWebsite": "https://github.com/0xCB-dev/0xcb-static",
+          "projectVersion": "1.0",
+          "projectDescription": "Open Source, 40%, through-hole, mechanical keyboard running QMK with VIA support.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Electronics",
+              "Manufacturing"
+          ],
+          "projectKeywords": [
+              "QMK",
+              " Arduino",
+              " VIA",
+              " Keyboard"
+          ],
+          "citations": [
+              {
+                  "url": "https://github.com/qmk/qmk_firmware",
+                  "title": "QMK"
+              }
+          ],
+          "documentationUrl": "",
+          "hardwareLicense": "CERN",
+          "softwareLicense": "GPL",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2021-06-17T00:00-04:00"
+      },
+      {
+          "oshwaUid": "FI000001",
+          "responsibleParty": "Sven Gregori",
+          "country": "Finland",
+          "publicContact": "dev@craplab.fi",
+          "projectName": "4chord MIDI Piano",
+          "projectWebsite": "https://4chord.craplab.fi/",
+          "projectVersion": "B2.0",
+          "projectDescription": "The USB MIDI keyboard that has all it takes to play every hit pop songs ever: four chords. Acting like a regular MIDI controller, its four buttons will play the I-V-vi-IV chord progression in any key, any speed, and a variety of playback modes - from simple chords to arpeggios. It's even shaped like a piano, to give you the real feel of playing an actual instrument.",
+          "primaryType": "Sound",
+          "additionalType": [
+              "Arts",
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "Musical Instrument",
+              " MIDI",
+              " USB MIDI",
+              " AVR",
+              " Piano"
+          ],
+          "citations": [
+              {
+                  "url": "https://www.obdev.at/products/vusb/index.html",
+                  "title": "V-USB"
+              }
+          ],
+          "documentationUrl": "https://github.com/sgreg/4chord-midi",
+          "hardwareLicense": "CERN",
+          "softwareLicense": "GPL",
+          "documentationLicense": "CC BY",
+          "certificationDate": "2020-06-19T00:00-04:00"
+      },
+      {
+          "oshwaUid": "US002039",
+          "responsibleParty": "Adafruit Industries, LLC",
+          "country": "United States of America",
+          "publicContact": "oshw@adafruit.com",
+          "projectName": "Adafruit CYBERDECK Bonnet for Raspberry Pi 400",
+          "projectWebsite": "https://www.adafruit.com/product/4862",
+          "projectVersion": "Rev B",
+          "projectDescription": "Howdy keyboard cowboys, are you surfing the information superhighway with a Pi 400? Want a cool heads-up display, or maybe you need to wire up some NeoPixel wetware? Well, we just fenced 12 megabytes of ram and some angled socket header, and it's a major upgrade to our extender board. This bonnet has a 4-pin Sparkfun Qwiic-compatible connector called STEMMA QT, which allows you to easily add loads of sensors and other devices without soldering. Click the link labeled 'Project Website' to find out more.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "Adafruit CYBERDECK Bonnet for Raspberry Pi 400",
+              "CircuitPython"
+          ],
+          "citations": [
+              {}
+          ],
+          "documentationUrl": "https://learn.adafruit.com/cyberdeck-bonnet-and-hat",
+          "hardwareLicense": "Other",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2021-08-19T00:00-04:00"
+      },
+      {
+          "oshwaUid": "US002108",
+          "responsibleParty": "Adafruit Industries, LLC",
+          "country": "United States of America",
+          "publicContact": "oshw@adafruit.com",
+          "projectName": "Adafruit ESP32-S3 Feather with STEMMA QT / Qwiic",
+          "projectWebsite": "https://www.adafruit.com/product/5323",
+          "projectVersion": "Rev C",
+          "projectDescription": "This is the new Adafruit ESP32-S3 Feather! With native USB and 8 MB flash. Its Native USB lets it act like a keyboard or a disk drive. WiFi and BLE mean it's awesome for IoT projects. And the Feather form-factor means it works with the large community of Feather Wings for expandability. This board uses a 4-pin Sparkfun Qwiic-compatible connector called STEMMA QT, which allows the sensor to communicate over I2C without soldering. Click the link labeled 'Project Website' to find out more.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "Adafruit ESP32-S3 Feather with STEMMA QT / Qwiic",
+              "CircuitPython"
+          ],
+          "citations": [
+              {}
+          ],
+          "documentationUrl": "https://learn.adafruit.com/adafruit-esp32-s3-feather",
+          "hardwareLicense": "Other",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2022-05-20T00:00-04:00"
+      },
+      {
+          "oshwaUid": "US002502",
+          "responsibleParty": "Adafruit Industries, LLC",
+          "country": "United States of America",
+          "publicContact": "oshw@adafruit.com",
+          "projectName": "Adafruit ESP32-S3 Reverse TFT Feather",
+          "projectWebsite": "https://www.adafruit.com/product/5691",
+          "projectVersion": "Rev A",
+          "projectDescription": "This Feather comes with native USB and 4 MB Flash + 2 MB of PSRAM, so it is perfect for use with CircuitPython or Arduino with low-cost WiFi. Native USB means it can act like a keyboard or a disk drive. WiFi means it's awesome for IoT projects. And Feather means it works with the large community of Feather Wings for expandability. Click the link labeled 'Project Website' to find out more.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "Adafruit ESP32-S3 Reverse TFT Feather",
+              "CircuitPython"
+          ],
+          "citations": [
+              {}
+          ],
+          "documentationUrl": "https://github.com/adafruit/Adafruit-ESP32-S3-Reverse-TFT-Feather-PCB",
+          "hardwareLicense": "Other",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2023-09-14T00:00-04:00"
+      },
+      {
+          "oshwaUid": "US000635",
+          "responsibleParty": "Adafruit Industries, LLC",
+          "country": "United States of America",
+          "publicContact": "oshw@adafruit.com",
+          "projectName": "Adafruit Feather 32u4 Basic Proto",
+          "projectWebsite": "https://adafruit.com/product/2771",
+          "projectVersion": "Rev B",
+          "projectDescription": "At the Feather 32u4's heart is at ATmega32u4 clocked at 8 MHz and at 3.3V logic. This chip has 32K of flash and 2K of RAM, with built in USB so not only does it have a USB-to-Serial program & debug capability built in with no need for an FTDI-like chip, it can also act like a mouse, keyboard, USB MIDI device, etc. This chip is well supported in the Arduino IDE and can run just about every sensor/library out there. Click the link labeled 'Project Website' to find out more.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "Adafruit Feather 32u4 Basic Proto",
+              " CircuitPython"
+          ],
+          "citations": [],
+          "documentationUrl": "https://learn.adafruit.com/adafruit-feather-32u4-basic-proto",
+          "hardwareLicense": "Other",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2020-05-28T00:00-04:00"
+      },
+      {
+          "oshwaUid": "US002508",
+          "responsibleParty": "Adafruit Industries, LLC",
+          "country": "United States of America",
+          "publicContact": "oshw@adafruit.com",
+          "projectName": "Adafruit Joy Bonnet for Raspberry Pi",
+          "projectWebsite": "https://www.adafruit.com/product/3464",
+          "projectVersion": "Rev A",
+          "projectDescription": "This Bonnet fits perfectly on top of your Raspberry Pi Zero (any kind) and gives you adorable hand-held arcade controls. Once you install our script onto your Pi, the controls will act like a keyboard, for easy use with any emulator or media player. Click the link labeled 'Project Website' to find out more.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "Adafruit Joy Bonnet for Raspberry Pi",
+              "CircuitPython"
+          ],
+          "citations": [
+              {}
+          ],
+          "documentationUrl": "https://github.com/adafruit/Adafruit-Joy-Bonnet-PCB",
+          "hardwareLicense": "Other",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2023-09-14T00:00-04:00"
+      },
+      {
+          "oshwaUid": "US002024",
+          "responsibleParty": "Adafruit Industries, LLC",
+          "country": "United States of America",
+          "publicContact": "oshw@adafruit.com",
+          "projectName": "Adafruit MACROPAD RP2040 Bare Bones - 3x4 Keys + Encoder + OLED",
+          "projectWebsite": "https://www.adafruit.com/product/5100",
+          "projectVersion": "Rev C",
+          "projectDescription": "Strap yourself in, we're launching in T-minus 10 seconds...Destination? A new Class M planet called MACROPAD! M here, stands for Microcontroller because this 3x4 keyboard controller features the newest technology from the Raspberry Pi sector: say hello to the RP2040. This board has a 4-pin Sparkfun Qwiic-compatible connector called STEMMA QT, which allows you to easily add loads of sensors and other devices without soldering. Click the link labeled 'Project Website' to find out more.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "Adafruit MACROPAD RP2040 Bare Bones - 3x4 Keys + Encoder + OLED",
+              "CircuitPython"
+          ],
+          "citations": [
+              {}
+          ],
+          "documentationUrl": "https://learn.adafruit.com/adafruit-macropad-rp2040",
+          "hardwareLicense": "Other",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2021-08-19T00:00-04:00"
+      },
+      {
+          "oshwaUid": "US002631",
+          "responsibleParty": "Adafruit Industries, LLC",
+          "country": "United States of America",
+          "publicContact": "oshw@adafruit.com",
+          "projectName": "Adafruit USB Host BFF for QT Py or Xiao with MAX3421E",
+          "projectWebsite": "https://www.adafruit.com/product/5956",
+          "projectVersion": "Rev C",
+          "projectDescription": "Is your QT Py all alone, lacking a friend to travel the wide world with? When you were a kid, you may have learned about the buddy system. Well, this product is kind of like that! It is a board that will watch your QT Py's back and add a USB Host port. That means that your tiny microcontroller project can have a keyboard, mouse, or disk drive plugged into it, opening up a huge ecosystem of common off-the-shelf devices that you can now integrate. The Adafruit USB Host BFF makes it easy to add USB Host support, especially now that TinyUSB supports it in the Arduino library as a 'native' interface for host support.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "Adafruit USB Host BFF for QT Py or Xiao with MAX3421E",
+              "CircuitPython"
+          ],
+          "citations": [
+              {}
+          ],
+          "documentationUrl": "https://learn.adafruit.com/adafruit-usb-host-bff",
+          "hardwareLicense": "Other",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2024-05-02T00:00-04:00"
+      },
+      {
+          "oshwaUid": "US002588",
+          "responsibleParty": "Adafruit Industries, LLC",
+          "country": "United States of America",
+          "publicContact": "oshw@adafruit.com",
+          "projectName": "Adafruit USB Host FeatherWing with MAX3421E",
+          "projectWebsite": "https://www.adafruit.com/product/5858",
+          "projectVersion": "Rev B",
+          "projectDescription": "Lots of microcontrollers these days have USB ports on them, to program or debug, act like a keyboard or disk drive, or simply send data between a computer and your firmware. But did you know that you can also add a USB Host port? That means that your microcontroller project can have a keyboard or mouse or disk drive plugged into it - which opens up a huge ecosystem of common off-the-shelf devices that you can now integrate. The Adafruit USB Host FeatherWing makes it easy to add USB Host support, especially now that TinyUSB supports it in the Arduino library as a 'native' interface for host support.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "Adafruit USB Host FeatherWing with MAX3421E",
+              "TinyUSB"
+          ],
+          "citations": [
+              {}
+          ],
+          "documentationUrl": "https://learn.adafruit.com/adafruit-usb-host-featherwing-with-max3421e",
+          "hardwareLicense": "Other",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2023-12-19T00:00-05:00"
+      },
+      {
+          "oshwaUid": "US000215",
+          "responsibleParty": "Eric Olinger",
+          "country": "United States of America",
+          "publicContact": "EvvL-Keebs@RustedHalo.net",
+          "projectName": "Alchemy49",
+          "projectWebsite": "https://github.com/EvvL/Alchemy49",
+          "projectVersion": "",
+          "projectDescription": "Replacement PCB for the Magicforce 49",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "Keyboard",
+              "  PCB",
+              "  QMK",
+              "  MagicForce49"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/EvvL/Alchemy49",
+          "hardwareLicense": "Other",
+          "softwareLicense": "No software",
+          "documentationLicense": "CC 0",
+          "certificationDate": "2020-01-26T00:00-05:00"
+      },
+      {
+          "oshwaUid": "BG000094",
+          "responsibleParty": "ANAVI Technology Ltd",
+          "country": "Bulgaria",
+          "publicContact": "leonanavi@gmail.com",
+          "projectName": "ANAVI Arrows",
+          "projectWebsite": "https://anavi.technology/",
+          "projectVersion": "1.0",
+          "projectDescription": "ANAVI Arrows is a small, fully programmable, mechanical keyboard. The device offers a single rotary encoder with a clickable switch, a RGB LED, and four Gateron red, linear, non-clicky mechanical switches with transparent keycaps and yellow LED back-lighting.  ANAVI Arrows uses a black, gold-plated PCB and features yellow back-lighting under each key. It also has four WS2812B LEDs for under-lighting effects. An I²C slot allows for adding peripherals, such as our included mini OLED display.",
+          "primaryType": "Tool",
+          "additionalType": [
+              "Electronics",
+              "Tool",
+              "Other"
+          ],
+          "projectKeywords": [
+              "keyboard",
+              " mechanical keyboard",
+              " raspberry pi",
+              " rp2040",
+              " xiao"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/AnaviTechnology/anavi-docs/tree/main/anavi-macro-pad-12-arrows",
+          "hardwareLicense": "CC-BY-SA-4.0",
+          "softwareLicense": "GPL-3.0-only",
+          "documentationLicense": "CC-BY-SA-4.0",
+          "certificationDate": "2023-07-17T00:00-04:00"
+      },
+      {
+          "oshwaUid": "BG000134",
+          "responsibleParty": "ANAVI TECHNOLOGY LTD",
+          "country": "Bulgaria",
+          "publicContact": "info@anavi.technology",
+          "projectName": "ANAVI Handle",
+          "projectWebsite": "https://anavi.technology/",
+          "projectVersion": "1.0",
+          "projectDescription": "ANAVI Handle lets you easily connect a Wii Nunchuk-compatible controller to any USB-equipped computer. It features Seeed Studio’s XIAO RP2040 module, which offers a USB Type-C connector along with a Raspberry Pi RP2040 microcontroller.\r\n\r\nThe open-source firmware written in CircuitPython offers customization options to easily convert the Wii Nunchuk-compatible controller into a Human Interface Device (HID) such as a joystick, mouse, or keyboard.",
+          "primaryType": "Tool",
+          "additionalType": [
+              "Electronics",
+              "Tool",
+              "Other"
+          ],
+          "projectKeywords": [
+              "rp2040 wii nunchuk"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/AnaviTechnology/anavi-docs",
+          "hardwareLicense": "CC-BY-SA-4.0",
+          "softwareLicense": "GPL-3.0-only",
+          "documentationLicense": "CC-BY-SA-4.0",
+          "certificationDate": "2024-04-19T00:00-04:00"
+      },
+      {
+          "oshwaUid": "BG000089",
+          "responsibleParty": "ANAVI Technology",
+          "country": "Bulgaria",
+          "publicContact": "info@anavi.technology",
+          "projectName": "ANAVI Knob 1",
+          "projectWebsite": "https://anavi.technology/",
+          "projectVersion": "1.0",
+          "projectDescription": "ANAVI Knob 1 is a tiny input device with a single rotary encoder with a clickable switch and a RGB LED. You can turn it left, you can turn it right, and you can click it. It is fully programmable and there is an I²C slot you can use to add peripherals. ANAVI Knob 1 has been designed with KiCad. It is compatible with the open source firmwares KMK or QMK.",
+          "primaryType": "Tool",
+          "additionalType": [
+              "Electronics",
+              "Home Connection",
+              "Tool"
+          ],
+          "projectKeywords": [
+              "mechanical keyboard",
+              " qmk",
+              " kmk",
+              " rp2040",
+              " xiao"
+          ],
+          "citations": [
+              {
+                  "url": "https://github.com/AnaviTechnology/anavi-knob-1",
+                  "title": "KiCad project with schematics"
+              },
+              {
+                  "url": "https://github.com/KMKfw/kmk_firmware/tree/master/boards/anavi/knob1",
+                  "title": "KMK firmware"
+              }
+          ],
+          "documentationUrl": "https://github.com/AnaviTechnology/anavi-docs",
+          "hardwareLicense": "CC-BY-SA-4.0",
+          "softwareLicense": "GPL-3.0-only",
+          "documentationLicense": "CC-BY-SA-4.0",
+          "certificationDate": "2022-11-08T00:00-05:00"
+      },
+      {
+          "oshwaUid": "BG000092",
+          "responsibleParty": "ANAVI Technology Ltd",
+          "country": "Bulgaria",
+          "publicContact": "info@anavi.technology",
+          "projectName": "ANAVI Knobs 3",
+          "projectWebsite": "https://anavi.technology/",
+          "projectVersion": "1.0",
+          "projectDescription": "ANAVI Knobs 3 is a mini mechanical keyboard that offers three rotary encoders with XIAO RP2040, clickable switches and a RGB LED. The black, gold-plated PCB also features an I²C slot for adding peripherals such as a mini OLED display. This keyboard supports KMK firmware written in CircuitPython and QMK firmware.",
+          "primaryType": "Tool",
+          "additionalType": [
+              "Electronics",
+              "Home Connection"
+          ],
+          "projectKeywords": [
+              "keyboard",
+              " rotary encoder",
+              " kmk",
+              " qmk",
+              " mechanical keyboard"
+          ],
+          "citations": [
+              {
+                  "url": "https://github.com/AnaviTechnology/anavi-knobs-3",
+                  "title": "KiCad Project"
+              },
+              {
+                  "url": "https://github.com/KMKfw/kmk_firmware/tree/master/boards/anavi/knobs3",
+                  "title": "KMK firmware"
+              },
+              {
+                  "url": "https://www.crowdsupply.com/anavi-technology/anavi-macro-pad-10",
+                  "title": "Crowd Supply"
+              }
+          ],
+          "documentationUrl": "https://github.com/AnaviTechnology/anavi-docs/blob/main/anavi-macro-pad-10-knobs-3-knob-1/anavi-macro-pad-10-knobs-3-knob-1.md",
+          "hardwareLicense": "CC-BY-SA-4.0",
+          "softwareLicense": "GPL-3.0-only",
+          "documentationLicense": "CC-BY-SA-4.0",
+          "certificationDate": "2023-01-11T00:00-05:00"
+      },
+      {
+          "oshwaUid": "BG000093",
+          "responsibleParty": "ANAVI Technology Ltd",
+          "country": "Bulgaria",
+          "publicContact": "leonanavi@gmail.com",
+          "projectName": "ANAVI Macro Pad 10",
+          "projectWebsite": "https://anavi.technology/",
+          "projectVersion": "1.1",
+          "projectDescription": "ANAVI Macro Pad 10 is an open source mini mechanical keyboard that offers XIAO RP2040, a rotary encoder with clickable switch and nine hot-swappable Gateron red mechanical switches with translucent keycaps. The black, gold-plated PCB features yellow backlighting under each key, RGB LED on the front and four WS2812B LEDs for under-lighting. The hot-swappable sockets allow you to change the mechanical switches easily, with no soldering required. ANAVI Macro Pad 10 is compatible with KMK and QMK.",
+          "primaryType": "Tool",
+          "additionalType": [
+              "Electronics",
+              "Home Connection"
+          ],
+          "projectKeywords": [
+              "mechanical keyboard",
+              " kmk",
+              " qmk",
+              " rp2040"
+          ],
+          "citations": [
+              {
+                  "url": "https://github.com/AnaviTechnology/anavi-macro-pad-10",
+                  "title": "KiCad project"
+              },
+              {
+                  "url": "https://github.com/KMKfw/kmk_firmware/tree/master/boards/anavi/macro-pad-10",
+                  "title": "KMK firmware"
+              },
+              {
+                  "url": "https://github.com/qmk/qmk_firmware/tree/master/keyboards/anavi/macropad10",
+                  "title": "QMK firmware"
+              },
+              {
+                  "url": "https://www.crowdsupply.com/anavi-technology/anavi-macro-pad-10",
+                  "title": "Crowd Supply"
+              }
+          ],
+          "documentationUrl": "https://github.com/AnaviTechnology/anavi-docs/blob/main/anavi-macro-pad-10-knobs-3-knob-1/anavi-macro-pad-10-knobs-3-knob-1.md",
+          "hardwareLicense": "CC-BY-SA-4.0",
+          "softwareLicense": "GPL-3.0-only",
+          "documentationLicense": "CC-BY-SA-4.0",
+          "certificationDate": "2023-01-11T00:00-05:00"
+      },
+      {
+          "oshwaUid": "BG000095",
+          "responsibleParty": "ANAVI Technology Ltd",
+          "country": "Bulgaria",
+          "publicContact": "leonanavi@gmail.com",
+          "projectName": "ANAVI Macro Pad 12",
+          "projectWebsite": "https://anavi.technology/",
+          "projectVersion": "1.0",
+          "projectDescription": "ANAVI Macro Pad 12 offers twelve fully programmable, hot-swappable, Gateron red mechanical switches with translucent keycaps. The black, gold-plated PCB features yellow back-lighting under each key, RGB LED on front and six WS2812B LEDs for under lighting effects. The hot-swappable sockets allow you to change the mechanical switches easily, with no soldering required. The device has a I²C slot for adding peripherals, such as a mini OLED display, included in the kit.",
+          "primaryType": "Tool",
+          "additionalType": [
+              "Electronics",
+              "Tool",
+              "Other"
+          ],
+          "projectKeywords": [
+              "mechanical keyboard",
+              " keyboard",
+              " raspberry pi",
+              " rp2040",
+              " xiao"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/AnaviTechnology/anavi-docs/tree/main/anavi-macro-pad-12-arrows",
+          "hardwareLicense": "CC-BY-SA-4.0",
+          "softwareLicense": "GPL-3.0-only",
+          "documentationLicense": "CC-BY-SA-4.0",
+          "certificationDate": "2023-07-17T00:00-04:00"
+      },
+      {
+          "oshwaUid": "BG000077",
+          "responsibleParty": "Leon Anavi",
+          "country": "Bulgaria",
+          "publicContact": "info@anavi.technology",
+          "projectName": "ANAVI Macro Pad 2",
+          "projectWebsite": "https://anavi.technology/",
+          "projectVersion": "1.0",
+          "projectDescription": "ANAVI Macro Pad 2 is an open source, custom programmable, tiny 2% mechanical keyboard/keypad. Each of the 2 keys allows you to reprogram and use it as macro keypad. Designed with KiCad and powered by the QMK open source firmware.\r\n\r\nFor more details visit:\r\nhttps://anavi.technology/\r\nhttps://www.crowdsupply.com/anavi-technology/anavi-macro-pad-2\r\nhttps://github.com/AnaviTechnology/anavi-macro-pad-2\r\nhttps://github.com/qmk/qmk_firmware/tree/master/keyboards/anavi/macropad2",
+          "primaryType": "Tool",
+          "additionalType": [
+              "Other"
+          ],
+          "projectKeywords": [
+              "mechanical keyboard",
+              " keyboard",
+              " attiny85",
+              " qmk"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/AnaviTechnology/anavi-docs/blob/master/anavi-macro-pad-2/anavi-macro-pad-2.md",
+          "hardwareLicense": "Other",
+          "softwareLicense": "GPL",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2021-05-12T00:00-04:00"
+      },
+      {
+          "oshwaUid": "BG000072",
+          "responsibleParty": "ANAVI Technology",
+          "country": "Bulgaria",
+          "publicContact": "info@anavi.technology",
+          "projectName": "ANAVI Macro Pad 8",
+          "projectWebsite": "https://github.com/AnaviTechnology/anavi-macro-pad-8",
+          "projectVersion": "1.1",
+          "projectDescription": "Open source, programmable, mechanical, eight-key keypad with backlighting, underlighting, and OLED screen. Designed with free and open source tools only, powered by Quantum Mechanical Keyboard (QMK) Firmware.",
+          "primaryType": "Tool",
+          "additionalType": [
+              "Electronics",
+              "Tool",
+              "Other"
+          ],
+          "projectKeywords": [
+              "mechanical keyboard qmk"
+          ],
+          "citations": [
+              {
+                  "url": "https://www.crowdsupply.com/anavi-technology/anavi-macro-pad-8",
+                  "title": "Crowd Supply"
+              },
+              {
+                  "url": "https://github.com/qmk/qmk_firmware/tree/master/keyboards/anavi/macropad8",
+                  "title": "QMK Firmware support for ANAVI Macro Pad 8"
+              }
+          ],
+          "documentationUrl": "https://github.com/AnaviTechnology/anavi-docs",
+          "hardwareLicense": "Other",
+          "softwareLicense": "GPL",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2020-07-13T00:00-04:00"
+      },
+      {
+          "oshwaUid": "US002000",
+          "responsibleParty": "Matthew James",
+          "country": "United States of America",
+          "publicContact": "mattyams666@gmail.com",
+          "projectName": "Arisutea Keyboard",
+          "projectWebsite": "https://github.com/mattyams/arisutea-pcb",
+          "projectVersion": "1.0",
+          "projectDescription": "アリステア (Arisutea) ergo 60% keyboard PCB and acrylic case.",
+          "primaryType": "Electronics",
+          "projectKeywords": [
+              "keyboard",
+              " ergo",
+              " mechanical",
+              " PCB",
+              " arisutea",
+              " arisu",
+              " alice",
+              " tgr"
+          ],
+          "citations": [
+              {
+                  "url": "https://github.com/FateNozomi/arisu-pcb",
+                  "title": "Arisu Keyboard PCB"
+              }
+          ],
+          "documentationUrl": "https://github.com/mattyams/arisutea-pcb/blob/master/README.md",
+          "hardwareLicense": "Other",
+          "softwareLicense": "GPL",
+          "documentationLicense": "Other",
+          "certificationDate": "2021-05-24T00:00-04:00"
+      },
+      {
+          "oshwaUid": "SE000003",
+          "responsibleParty": "arturo182",
+          "country": "Sweden",
+          "publicContact": "bbq10pmod@solder.party",
+          "projectName": "BB Q10 Keyboard PMOD",
+          "projectWebsite": "https://github.com/arturo182/pmod_bbq10_keyboard",
+          "projectVersion": "1.0",
+          "projectDescription": "A BB Q10 Keyboard in PMOD format.\r\n\r\nThe board uses a ATSAMD20 chip to poll the keyboard and put key press information into a FIFO. An I2C interface can be used to read the FIFO, configure some of the functionality of the chip, and control the keyboard backlight. The key information can be received using polling or interrupts.",
+          "primaryType": "Other",
+          "additionalType": [
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "keyboard",
+              "qwerty",
+              "pmod",
+              "i2c"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/arturo182/bbq10kbd_i2c_sw",
+          "hardwareLicense": "CERN",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2020-01-26T00:00-05:00"
+      },
+      {
+          "oshwaUid": "SE000019",
+          "responsibleParty": "arturo182",
+          "country": "Sweden",
+          "publicContact": "bbq20kbd@solder.party",
+          "projectName": "BBQ20KBD",
+          "projectWebsite": "https://bbq20kbd.solder.party",
+          "projectVersion": "1.0",
+          "projectDescription": "A BB Q20 Keyboard in USB/PMOD/Qwiic format. \r\n\r\nThe board uses the Raspberry Pi RP2040 MCU to poll the keyboard and trackpad and put the keypress information into a FIFO. \r\n\r\nYou can use the I2C interface to read the FIFO, reconfigure the chip, and change the keyboard backlight.\r\n\r\nIn addition to that, the board also has a USB Type-C socket, and when connected to a desktop computer, a smartphone, or a SBC, it enumerates as a USB HID Keyboard and Mouse combo!",
+          "primaryType": "Tool",
+          "additionalType": [
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "qwerty",
+              " keyboard",
+              " handheld",
+              " portable",
+              " i2c",
+              " usb"
+          ],
+          "citations": [],
+          "documentationUrl": "https://bbq20kbd.solder.party",
+          "hardwareLicense": "CERN-OHL-1.2",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2022-05-20T00:00-04:00"
+      },
+      {
+          "oshwaUid": "US002462",
+          "responsibleParty": "Adafruit Industries, LLC",
+          "country": "United States of America",
+          "publicContact": "oshw@adafruit.com",
+          "projectName": "Bluefruit EZ-Key - 12 Input Bluetooth HID Keyboard Controller",
+          "projectWebsite": "https://www.adafruit.com/product/1535",
+          "projectVersion": "Rev A",
+          "projectDescription": "This breakout acts just like a BT keyboard, and works great with any BT-capable device: Mac, Windows, Linux, iOS, and Android. Power the module with 3-16VDC, and pair it to the computer, tablet or phone just as you would any other BT device. Now you can connect buttons from the 12 input pins, when a button is pressed, it sends a keypress to the computer. Click the link labeled 'Project Website' to find out more.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "Bluefruit EZ-Key - 12 Input Bluetooth HID Keyboard Controller",
+              "CircuitPython"
+          ],
+          "citations": [
+              {}
+          ],
+          "documentationUrl": "https://github.com/adafruit/Adafruit-Bluefruit-EZ-Key-PCB",
+          "hardwareLicense": "Other",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2023-09-08T00:00-04:00"
+      },
+      {
+          "oshwaUid": "FR000019",
+          "responsibleParty": "Cairn Devices SAS",
+          "country": "France",
+          "publicContact": "contact@cairn-devices.eu",
+          "projectName": "Cairn Mesa | Key",
+          "projectWebsite": "https://gitlab.cairn-devices.eu/cairntech/cairn-mesa-key",
+          "projectVersion": "1.0",
+          "projectDescription": "The Cairn Mesa | Key is ultra-thin, backlit and fully customisable keyboard. Users can change the physical layout of keycaps as they wish. Users can change 9 programmable keys and all the software key layout through the QMK Configurator. It can be easily disassembled for easy repair and maintenance.\r\n\r\nCairn Mesa | Key is compatible with all computers, tablets and smartphones. Plus, it will be compatible with the Cairn Mesa, the modular laptop computer from Cairn Devices (available soon).",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "3D Printing",
+              "Manufacturing"
+          ],
+          "projectKeywords": [
+              "Keyboard",
+              " Mechanical Keyboard",
+              " QMK",
+              " Modular Laptop",
+              " Customisable"
+          ],
+          "citations": [
+              {
+                  "url": "https://qmk.fm/",
+                  "title": "QMK Firmware"
+              }
+          ],
+          "documentationUrl": "https://gitlab.cairn-devices.eu/cairntech/cairn-mesa-key",
+          "hardwareLicense": "CERN-OHL-S-2.0",
+          "softwareLicense": "GPL",
+          "documentationLicense": "CERN-OHL-S-2.0",
+          "certificationDate": "2022-02-11T00:00-05:00"
+      },
+      {
+          "oshwaUid": "DE000129",
+          "responsibleParty": "Simon Hengel",
+          "country": "Germany",
+          "publicContact": "sol@typeful.net",
+          "projectName": "CHORD ZERO Stenographic Keyboard",
+          "projectWebsite": "https://github.com/sol/chord-zero#readme",
+          "projectVersion": "",
+          "projectDescription": "CHORD ZERO is a stenographic keyboard that can be used with Plover or any other application that supports the TX Bolt or GeminiPR protocol.",
+          "primaryType": "Electronics",
+          "projectKeywords": [
+              "KEYBOARDS",
+              " STENOGRAPHY"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/sol/chord-zero#readme",
+          "hardwareLicense": "CERN-OHL-S-2.0",
+          "softwareLicense": "GPL",
+          "documentationLicense": "CERN-OHL-S-2.0",
+          "certificationDate": "2022-08-25T00:00-04:00"
+      },
+      {
+          "oshwaUid": "ES000028",
+          "responsibleParty": "Noteolvides",
+          "country": "Spain",
+          "publicContact": "contact@noteolvi.es",
+          "projectName": "CubeTouch",
+          "projectWebsite": "https://cubetouch.noteolvid.es/",
+          "projectVersion": "1.0",
+          "projectDescription": "A cube made up of 6 PCBs that when soldered together form a cube universe. CubeTouch is designed to create a beautiful object from PCBs but giving it all the functionality of a HID device, being able to interact with the computer as if it were a keyboard or any other HID device.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Arts",
+              "Tool"
+          ],
+          "projectKeywords": [
+              "USB",
+              "HID",
+              "MICROCONTROLLER",
+              "ART",
+              "CUBE"
+          ],
+          "citations": [],
+          "documentationUrl": "https://cubetouch.noteolvid.es/docs/firstSteps/programming/",
+          "hardwareLicense": "CERN",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC0-1.0",
+          "certificationDate": "2022-06-08T00:00-04:00"
+      },
+      {
+          "oshwaUid": "US002378",
+          "responsibleParty": "Bertrand",
+          "country": "United States of America",
+          "publicContact": "bertrandleroy@gmail.com",
+          "projectName": "Decent XE keyboard",
+          "projectWebsite": "https://github.com/bleroy/3d-junkyard/tree/main/Atari130MX",
+          "projectVersion": "13",
+          "projectDescription": "Drop-in replacement mechanical keyboard for Atari XE computers. The project includes PCBs, 3D printed parts, a custom key cap design and extensive documentation.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "3D Printing",
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "Atari XE 8-bit mechanical keyboard"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/bleroy/3d-junkyard/blob/main/Atari130MX/readme.md",
+          "hardwareLicense": "Other",
+          "softwareLicense": "MIT",
+          "documentationLicense": "Other",
+          "certificationDate": "2023-07-17T00:00-04:00"
+      },
+      {
+          "oshwaUid": "US002119",
+          "responsibleParty": "Wizard Keyboards",
+          "country": "United States of America",
+          "publicContact": "admin@wizardkeyboards.com",
+          "projectName": "Ergo S-1 Open Edition",
+          "projectWebsite": "https://wizardkeyboards.com/",
+          "projectVersion": "0",
+          "projectDescription": "A wireless ergonomic keyboard.",
+          "primaryType": "3D Printing",
+          "additionalType": [
+              "3D Printing",
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "wireless",
+              " keyboard",
+              " ergonomic",
+              " 3D",
+              " print",
+              " keywell"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/wizarddata/Ergo-S-1",
+          "hardwareLicense": "CERN-OHL-S-2.0",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC BY",
+          "certificationDate": "2022-06-10T00:00-04:00"
+      },
+      {
+          "oshwaUid": "UK000027",
+          "responsibleParty": "Pierre Chevalier",
+          "country": "United Kingdom",
+          "publicContact": "pierrechevalier83@gmail.com",
+          "projectName": "Ferris",
+          "projectWebsite": "https://github.com/pierrechevalier83/ferris/",
+          "projectVersion": "0.2",
+          "previousVersions": [
+              "UK000013"
+          ],
+          "projectDescription": "A minimalist 34 keys ergonomic split keyboard named after the Rust mascot.\r\n\r\nVersion 0.2 uses an arm chip on the left hand, which connects to the computer through USB C and an i/o expander for the right hand, which connects to the left hand using the i2c protocol with the 4 pins of a TRRS Jack cable.\r\n\r\nThe keyboard comes in a number of variants to accommodate different sets of preference.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Enclosure"
+          ],
+          "projectKeywords": [
+              "mechanical keyboard",
+              " rustlang",
+              " ergonomic",
+              " low-profile",
+              " split keyboard"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/pierrechevalier83/ferris/",
+          "hardwareLicense": "Solderpad",
+          "softwareLicense": "GPL",
+          "documentationLicense": "CC 0",
+          "certificationDate": "2021-03-24T00:00-04:00"
+      },
+      {
+          "oshwaUid": "UK000013",
+          "responsibleParty": "Pierre Chevalier",
+          "country": "United Kingdom",
+          "publicContact": "pierrechevalier83@gmail.com",
+          "projectName": "Ferris",
+          "projectWebsite": "https://github.com/pierrechevalier83/ferris",
+          "projectVersion": "0.1",
+          "projectDescription": "A minimalist 34 keys ergonomic split keyboard named after the Ferris mascot.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "mechanical keyboard",
+              " keyboard",
+              " pcb",
+              " crab",
+              " ferris",
+              " qmk"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/pierrechevalier83/ferris",
+          "hardwareLicense": "Solderpad",
+          "softwareLicense": "GPL",
+          "documentationLicense": "Other",
+          "certificationDate": "2020-07-16T00:00-04:00"
+      },
+      {
+          "oshwaUid": "US002379",
+          "responsibleParty": "Bertrand",
+          "country": "United States of America",
+          "publicContact": "bertrandleroy@gmail.com",
+          "projectName": "JoyKey Mini",
+          "projectWebsite": "https://github.com/bleroy/3d-junkyard/tree/main/JoyKeyMX",
+          "projectVersion": "1",
+          "projectDescription": "Atari-compatible game controllers built like a mechanical keyboard. The project includes PCBs and 3D models of enclosures.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "3D Printing",
+              "Electronics",
+              "Enclosure"
+          ],
+          "projectKeywords": [
+              "game controller Atari joypad"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/bleroy/3d-junkyard/blob/main/JoyKeyMX/readme.md",
+          "hardwareLicense": "CERN-OHL-P-2.0",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC-BY-SA-4.0",
+          "certificationDate": "2023-07-17T00:00-04:00"
+      },
+      {
+          "oshwaUid": "NL000010",
+          "responsibleParty": "Sam Bitter",
+          "country": "Netherlands",
+          "publicContact": "mail@0xcb.dev",
+          "projectName": "Jupiter",
+          "projectWebsite": "https://github.com/0xCB-dev/0xCB-Jupiter",
+          "projectVersion": "1.0",
+          "projectDescription": "An open source, 1800-size through-hole keyboard with various layout options running QMK.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Electronics",
+              "Manufacturing"
+          ],
+          "projectKeywords": [
+              "QMK",
+              " keyboard",
+              " THT",
+              " 1800"
+          ],
+          "citations": [
+              {
+                  "url": "https://github.com/qmk/qmk_firmware",
+                  "title": "QMK"
+              }
+          ],
+          "documentationUrl": "https://github.com/0xCB-dev/0xCB-Jupiter",
+          "hardwareLicense": "CERN-OHL-S-2.0",
+          "softwareLicense": "GPL-3.0-or-later",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2022-05-06T00:00-04:00"
+      },
+      {
+          "oshwaUid": "DE000126",
+          "responsibleParty": "Simon Hengel",
+          "country": "Germany",
+          "publicContact": "sol@typeful.net",
+          "projectName": "KBDevBoard",
+          "projectWebsite": "https://github.com/sol/KBDevBoard",
+          "projectVersion": "1.0",
+          "projectDescription": "KBDevBoard is a development board for rapid prototyping of keyboard circuitry.",
+          "primaryType": "Electronics",
+          "projectKeywords": [
+              "keyboards",
+              " prototyping"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/sol/KBDevBoard#readme",
+          "hardwareLicense": "Other",
+          "softwareLicense": "No software",
+          "documentationLicense": "Other",
+          "certificationDate": "2022-06-08T00:00-04:00"
+      },
+      {
+          "oshwaUid": "SE000012",
+          "responsibleParty": "arturo182",
+          "country": "Sweden",
+          "publicContact": "kfw@solder.party",
+          "projectName": "Keyboard FeatherWing",
+          "projectWebsite": "https://kfw.solder.party/rev2",
+          "projectVersion": "2",
+          "previousVersions": [
+              "SE000006"
+          ],
+          "projectDescription": "An easy way to add a handheld Qwerty keyboard and a 2.6” color display (+ more) to your project. It fits well in your hands and is great for typing with your thumbs, early 2000s-style.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Tool"
+          ],
+          "projectKeywords": [
+              "KEYBOARD",
+              " FEATHERWING",
+              " QWERTY",
+              " LCD",
+              " NEOPIXEL",
+              " JOYSTICK",
+              " HANDHELD",
+              " PORTABLE"
+          ],
+          "citations": [],
+          "documentationUrl": "https://kfw.solder.party/rev2",
+          "hardwareLicense": "CERN",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2021-06-30T00:00-04:00"
+      },
+      {
+          "oshwaUid": "SE000006",
+          "responsibleParty": "arturo182",
+          "country": "Sweden",
+          "publicContact": "kfw@solder.party",
+          "projectName": "Keyboard FeatherWing",
+          "projectWebsite": "https://kfw.solder.party/",
+          "projectVersion": "1.0",
+          "projectDescription": "An easy way to add a handheld Qwerty keyboard and a 2.6” color display (+ more) to your project. It fits well in your hands and is great for typing with your thumbs, early 2000s-style.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Tool"
+          ],
+          "projectKeywords": [
+              "keyboard",
+              "featherwing",
+              "qwerty",
+              "lcd",
+              "neopixel",
+              "joystick",
+              "handheld",
+              "portable"
+          ],
+          "citations": [],
+          "documentationUrl": "https://kfw.solder.party/",
+          "hardwareLicense": "CERN",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2020-08-20T00:00-04:00"
+      },
+      {
+          "oshwaUid": "US000032",
+          "responsibleParty": "Sizigi Studios",
+          "country": "United States of America",
+          "publicContact": "hello@sizigistudios.com",
+          "projectName": "keyswitch.one",
+          "projectWebsite": "http://keyswitch.one",
+          "projectVersion": "1",
+          "projectDescription": "keyswitch.one is an open-source, fully programmable keyboard for your keychain.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Enclosure",
+              "Tool",
+              "Wearables"
+          ],
+          "projectKeywords": [
+              "Keyboard",
+              "Keychain"
+          ],
+          "documentationUrl": "https://github.com/sizigi/keyswitch.one",
+          "hardwareLicense": "Other",
+          "softwareLicense": "MIT",
+          "documentationLicense": "Other",
+          "certificationDate": "2016-10-30T00:00-04:00"
+      },
+      {
+          "oshwaUid": "UA000004",
+          "responsibleParty": "Automation.art",
+          "country": "Ukraine",
+          "publicContact": "automationartkiev@gmail.com",
+          "projectName": "LoraType",
+          "projectWebsite": "https://loratype.org",
+          "projectVersion": "1.1",
+          "projectDescription": "LoraType. Our priority is to make the user experience as simple as possible. It only has an on/off button, a widespread QWERTY-keyboard and a cute e-ink display. That’s it. However, in spite of simplicity the Loratype can be used as a tiny PC with possibility for programming and adding new functions thanks to embedded Wі-Fі, Bluetooth and esp32. Welcome on board and feel like home, dear like-minded fellows!\r\n                        \r\n                        There are some extra features: the LoRa protocol is noise-resistant, and the communication range is about 1 km in a city and up to 7 km in line-of-sight coverage. And of course it is totally free of charge, Loratype has been created not by a Corporation for population, but by people for people. Thus, in any emergency condition, we will honorably stay together!",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "3D Printing",
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "Lora",
+              "e-ink",
+              "esp32",
+              "Wireless",
+              "keyboard",
+              "argb"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/AutomationArt/LoraType",
+          "hardwareLicense": "Solderpad",
+          "softwareLicense": "Apache",
+          "documentationLicense": "GPL-3.0-or-later",
+          "certificationDate": "2023-03-03T00:00-05:00"
+      },
+      {
+          "oshwaUid": "AU000013",
+          "responsibleParty": "Paul Gardner-Stephen",
+          "country": "Australia",
+          "publicContact": "paul@m-e-g-a.org",
+          "projectName": "MEGA65 MK-II Keyboard PCB",
+          "projectWebsite": "https://mega65.org",
+          "projectVersion": "1",
+          "projectDescription": "A DIY-buildable keyboard for the MEGA65 retro computer.",
+          "primaryType": "Electronics",
+          "projectKeywords": [
+              "MEGA65",
+              " keyboard",
+              " PCB"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/mega65/mega65-kbd-pcb",
+          "hardwareLicense": "CC-BY-SA-4.0",
+          "softwareLicense": "No software",
+          "documentationLicense": "CC-BY-SA-4.0",
+          "certificationDate": "2022-10-31T00:00-04:00"
+      },
+      {
+          "oshwaUid": "MX000021",
+          "responsibleParty": "ELECTRONIC CATS SAPI DE CV mail",
+          "country": "Mexico",
+          "publicContact": "support@electroniccats.com",
+          "projectName": "MEOW MEOW MINI",
+          "projectWebsite": "https://github.com/ElectronicCats/MeowMeow/tree/meow_mini",
+          "projectVersion": "1.3",
+          "projectDescription": "The Meow Meow mini board uses high capacitance switching to detect when a connection has been made even with materials that are not very conductive (such as paste or people). It has 10 inputs on the front of the board, which are those that are connected through cables, alligators or anything you can think of to conductive objects.\r\nThe computer recognizes Meow as a keyboard (or mouse), thanks to this it works with all programs, operating systems and web pages without needing any driver or program",
+          "primaryType": "Education",
+          "additionalType": [
+              "Arts",
+              "Electronics",
+              "Home Connection",
+              "Science",
+              "Tool"
+          ],
+          "projectKeywords": [
+              "Cat",
+              " Meow",
+              " education ",
+              " mouse",
+              " keyboard ",
+              "learning"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/ElectronicCats/MeowMeow/tree/meow_mini",
+          "hardwareLicense": "CERN",
+          "softwareLicense": "LGPL",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2020-09-19T00:00-04:00"
+      },
+      {
+          "oshwaUid": "ES000046",
+          "responsibleParty": "José Manuel Mariño Mariño",
+          "country": "Spain",
+          "publicContact": "jm@marinho.com.es",
+          "projectName": "MIDI Touch Keyboard",
+          "projectWebsite": "https://gitlab.com/jmmarino2/midi_touch_keyboard",
+          "projectVersion": "1.0",
+          "projectDescription": "MIDI Keyboard based on MPR121 capacitive sensor. ",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Sound"
+          ],
+          "projectKeywords": [
+              "midi",
+              " keyboard",
+              " touch",
+              " tactile",
+              " capacitive"
+          ],
+          "citations": [],
+          "documentationUrl": "https://gitlab.com/jmmarino2/midi_touch_keyboard",
+          "hardwareLicense": "CERN-OHL-S-2.0",
+          "softwareLicense": "GPL-3.0-or-later",
+          "documentationLicense": "CC-BY-SA-4.0",
+          "certificationDate": "2024-05-11T00:00-04:00"
+      },
+      {
+          "oshwaUid": "ES000041",
+          "responsibleParty": "Making Devices",
+          "country": "Spain",
+          "publicContact": "ruben.garcia@makingdevices.com",
+          "projectName": "NightUSB",
+          "projectWebsite": "https://www.makingdevices.com/",
+          "projectVersion": "0.1",
+          "projectDescription": "The PIC18F14k50 is USB-2.0 fully compatible, so this small dev board aims to explore the USB communication: Simulating mouse, keyboard, make small scripts for BADUSB behaviour... And so much else can be done with this microcontroller! However, it does not count on isolation between the PIC and the USB, so it should be handled quite carefully.\r\n\r\nOn the other hand, most of the IO pins of the PIC18F are available in the board, so you can use the board as a normal dev board.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Electronics",
+              "Manufacturing",
+              "Science"
+          ],
+          "projectKeywords": [
+              "USB",
+              " Night",
+              " Dev",
+              " Development",
+              " PIC18f14k50",
+              " microchip",
+              " mouse",
+              " keyboard",
+              " simulator"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/makingdevices/NightUSB",
+          "hardwareLicense": "CERN-OHL-S-2.0",
+          "softwareLicense": "GPL-3.0-or-later",
+          "documentationLicense": "CC-BY-SA-4.0",
+          "certificationDate": "2023-12-08T00:00-05:00"
+      },
+      {
+          "oshwaUid": "BG000090",
+          "responsibleParty": "OLIMEX Ltd",
+          "country": "Bulgaria",
+          "publicContact": "info@olimex.com",
+          "projectName": "OLIMEX AgonLight2",
+          "projectWebsite": "https://www.olimex.com/Products/Retro-Computers/AgonLight2/open-source-hardware",
+          "projectVersion": "",
+          "projectDescription": "OLIMEX AgonLight2 is Z80 BASIC single board retro computer running BBC Basic with VGA monitor and PS2 Keyboard. It exposes GPIOs on 34 pin connector, UEXT connector, Audio 3.5mm connector, micro SD card and UPS via LiPo battery. AgonLight2 is based on the original design of Bernardo Kastrup AgonLight",
+          "primaryType": "Education",
+          "additionalType": [
+              "Education",
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "retro",
+              " computer",
+              " z80",
+              " bbc",
+              " basic",
+              " embedded"
+          ],
+          "citations": [
+              {
+                  "url": "https://github.com/TheByteAttic/AgonLight",
+                  "title": "AgonLight"
+              }
+          ],
+          "documentationUrl": "https://github.com/OLIMEX/AgonLight2",
+          "hardwareLicense": "CERN-OHL-P-2.0",
+          "softwareLicense": "Other",
+          "documentationLicense": "CC-BY-4.0",
+          "certificationDate": "2022-12-21T00:00-05:00"
+      },
+      {
+          "oshwaUid": "BG000031",
+          "responsibleParty": "OLIMEX Ltd",
+          "country": "Bulgaria",
+          "publicContact": "info@olimex.com",
+          "projectName": "OLIMEX Duinomite",
+          "projectWebsite": "https://www.olimex.com/Products/Duino/Duinomite/DUINOMITE/open-source-hardware",
+          "projectVersion": "",
+          "projectDescription": "Duinomite is industrial grade -45+85C Computer running BASIC language interpreter with VGA display and PS2 keyboard. It&#x27;s based on PIC32 microcontroller with 512KB Flash and 128KB RAM.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Education",
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "basic",
+              " computer"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/OLIMEX/DuinoMite",
+          "hardwareLicense": "Other",
+          "softwareLicense": "GPL",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2019-07-07T00:00-04:00"
+      },
+      {
+          "oshwaUid": "BG000032",
+          "responsibleParty": "OLIMEX Ltd",
+          "country": "Bulgaria",
+          "publicContact": "info@olimex.com",
+          "projectName": "OLIMEX Duinomite-eMega",
+          "projectWebsite": "https://www.olimex.com/Products/Duino/Duinomite/DUINOMITE-eMEGA/open-source-hardware",
+          "projectVersion": "",
+          "projectDescription": "Duinomite-eMega is industrial grade -45+85C Basic interpreter computer with VGA display and PS2 keyboard. It is based on PIC32 microcontroller with 512KB Flash and 128KB RAM.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Education",
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "basic",
+              " computer"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/OLIMEX/DuinoMite",
+          "hardwareLicense": "Other",
+          "softwareLicense": "GPL",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2019-07-07T00:00-04:00"
+      },
+      {
+          "oshwaUid": "BG000033",
+          "responsibleParty": "OLIMEX Ltd",
+          "country": "Bulgaria",
+          "publicContact": "info@olimex.com",
+          "projectName": "OLIMEX Duinomite-Mega",
+          "projectWebsite": "https://www.olimex.com/Products/Duino/Duinomite/DUINOMITE-MEGA/open-source-hardware",
+          "projectVersion": "",
+          "projectDescription": "Duinomite-Mega is industrial grade BASIC computer with VGA display and PS2 keyboard. It uses PIC32 microcontroller with 512KB of Flash and 128KB of RAM.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Education",
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "basic",
+              " computer"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/OLIMEX/DuinoMite",
+          "hardwareLicense": "Other",
+          "softwareLicense": "GPL",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2019-07-07T00:00-04:00"
+      },
+      {
+          "oshwaUid": "BG000034",
+          "responsibleParty": "OLIMEX Ltd",
+          "country": "Bulgaria",
+          "publicContact": "info@olimex.com",
+          "projectName": "OLIMEX Duinomite-Mini",
+          "projectWebsite": "https://www.olimex.com/Products/Duino/Duinomite/DUINOMITE-MINI/open-source-hardware",
+          "projectVersion": "",
+          "projectDescription": "Duinomite-Mini is industrial grade -45+85C BASIC computer with VGA display and PS2 keyboard. It&#x27;s based on PIC32 microcontroller with 512KB Flash and 128KB RAM",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Education",
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "Basic",
+              " Computer"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/OLIMEX/DuinoMite",
+          "hardwareLicense": "Other",
+          "softwareLicense": "GPL",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2019-07-07T00:00-04:00"
+      },
+      {
+          "oshwaUid": "BG000099",
+          "responsibleParty": "Tsvetan Usunov",
+          "country": "Bulgaria",
+          "publicContact": "info@olimex.com",
+          "projectName": "OLIMEX ESP32-SBC-FabGL",
+          "projectWebsite": "https://www.olimex.com/Products/Retro-Computers/ESP32-SBC-FabGL/open-source-hardware",
+          "projectVersion": "",
+          "projectDescription": "ESP32 development board for FabGL library with VGA, PS2 keyboard, mouse, Sound and SD-card. Allow emulation of many retro computer platforms like: Altair8080, Amstrad CPC, IBM PC, TinyNES, RunCPM, ZX-ESPectrum, MCUME.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Education",
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "ESP32",
+              " FabGL",
+              " Altair8080",
+              " Amstrad CPC",
+              " IBM PC",
+              " TinyNES",
+              " RunCPM",
+              " ZX-ESPectrum",
+              " MCUME"
+          ],
+          "citations": [
+              {
+                  "url": "http://www.fabglib.org/",
+                  "title": "FabGL"
+              }
+          ],
+          "documentationUrl": "https://github.com/OLIMEX/ESP32-SBC-FabGL/",
+          "hardwareLicense": "CERN-OHL-S-2.0",
+          "softwareLicense": "GPL-3.0-or-later",
+          "documentationLicense": "CC-BY-SA-4.0",
+          "certificationDate": "2024-02-02T00:00-05:00"
+      },
+      {
+          "oshwaUid": "BG000100",
+          "responsibleParty": "Tsvetan Usunov",
+          "country": "Bulgaria",
+          "publicContact": "info@olimex.com",
+          "projectName": "OLIMEX Neo6502",
+          "projectWebsite": "https://www.olimex.com/Products/Retro-Computers/Neo6502/open-source-hardware",
+          "projectVersion": "",
+          "projectDescription": "Neo6502 is modern retro computer with W65C02 processor and RP2040 co-processor with HDMI and USB keyboard. Neo6502 can emulate Apple ][, Oric-Atmos, but also have it's own powerful NeoBASIC capable to make retro games with just a few BASIC lines code.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Education",
+              "Electronics",
+              "Robotics",
+              "Science"
+          ],
+          "projectKeywords": [
+              "6502",
+              " retro",
+              " computer",
+              " hdmi",
+              " usb",
+              " apple2",
+              " oric",
+              " atmos",
+              " basic",
+              " retrogaming"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/OLIMEX/Neo6502",
+          "hardwareLicense": "CERN-OHL-S-2.0",
+          "softwareLicense": "GPL-3.0-or-later",
+          "documentationLicense": "CC-BY-SA-4.0",
+          "certificationDate": "2024-02-02T00:00-05:00"
+      },
+      {
+          "oshwaUid": "BG000104",
+          "responsibleParty": "Tsvetan Usunov",
+          "country": "Bulgaria",
+          "publicContact": "info@olimex.com",
+          "projectName": "OLIMEX RP2040-PICO-PC",
+          "projectWebsite": "https://www.olimex.com/Products/MicroPython/RP2040-PICO-PC/open-source-hardware",
+          "projectVersion": "",
+          "projectDescription": "RP2040-PICO-PC allows RP2040-PICO to become a computer with SD card, HDMI display, Audio, USB keyboard, Li-Po charger and battery support, UEXT connector, and I2C connector.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Education",
+              "Electronics",
+              "Robotics",
+              "Science"
+          ],
+          "projectKeywords": [
+              "RP2040",
+              " PICO",
+              " computer",
+              " HDMI",
+              " USB keyboard",
+              " Audio",
+              " Lipo",
+              "UEXT"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/OLIMEX/RP2040-PICO-PC",
+          "hardwareLicense": "CERN-OHL-S-2.0",
+          "softwareLicense": "GPL-3.0-or-later",
+          "documentationLicense": "CC-BY-SA-4.0",
+          "certificationDate": "2024-02-02T00:00-05:00"
+      },
+      {
+          "oshwaUid": "BE000010",
+          "responsibleParty": "Lucas Placentino",
+          "country": "Belgium",
+          "publicContact": "mail@obsilab.com",
+          "projectName": "Quanta",
+          "projectWebsite": "https://quanta.obsilab.com/",
+          "projectVersion": "1.0",
+          "projectDescription": "The Quanta keyboard is a 75% ISO hot-swappable keyboard PCB with rotary encoder and integrated USB hub. ",
+          "primaryType": "Electronics",
+          "projectKeywords": [
+              "keyboard pcb qmk kmk rmk iso"
+          ],
+          "citations": [
+              {
+                  "url": "https://www.solder.party/docs/rp2040-stamp/",
+                  "title": "Solder Party RP2040 Stamp"
+              }
+          ],
+          "documentationUrl": "https://quanta.obsilab.com/",
+          "hardwareLicense": "CERN-OHL-P-2.0",
+          "softwareLicense": "No software",
+          "documentationLicense": "CERN-OHL-P-2.0",
+          "certificationDate": "2023-06-22T00:00-04:00"
+      },
+      {
+          "oshwaUid": "US000707",
+          "responsibleParty": "SparkFun Electronics",
+          "country": "United States of America",
+          "publicContact": "support@sparkfun.com",
+          "projectName": "Qwiic Keyboard Explorer",
+          "projectWebsite": "https://sparkle.sparkfun.com/sparkle/storefront_products/17047#tab-images",
+          "projectVersion": "v10",
+          "projectDescription": "The Qwiic Keyboard Explorer is a 14-key mechanical keyboard kit based on our Qwiic Pro Micro development board. On its own, it makes a conveniently sized programmable macro pad, but we've also included plenty of prototyping space along the top for experimenting with all kinds of keyboard peripherals. If soldering isn't your thing, take advantage of the Pro Micro's Qwiic connector to attach any board from our Qwiic ecosystem!",
+          "primaryType": "Electronics",
+          "projectKeywords": [
+              "SparkFun",
+              " Qwiic",
+              " Keyboard"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/sparkfunX/Qwiic_Keyboard_Explorer",
+          "hardwareLicense": "CERN",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2020-11-21T00:00-05:00"
+      },
+      {
+          "oshwaUid": "PL000003",
+          "responsibleParty": "3mdeb embedded systems consulting",
+          "country": "Poland",
+          "publicContact": "contact@3mdeb.com",
+          "projectName": "RTE",
+          "projectWebsite": "https://3mdeb.com/products/open-source-hardware/rte/",
+          "projectVersion": "1.1.0",
+          "projectDescription": "RTE is a hat designed for the Orange Pi Zero board which runs specially crafted Linux distribution using the Yocto Project.\r\n\r\nWe developed RTE to enable programmers from around the world at a low-level firmware development without hassle of expensive and bloated remote Keyboard-Video-Mouse devices.\r\n\r\nAs a result, we have a tool which makes easier work with firmware debugging tasks.",
+          "primaryType": "Tool",
+          "additionalType": [
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "rte",
+              " remote",
+              " testing",
+              " validation",
+              " debug",
+              " hat",
+              " shield",
+              " dut"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/3mdeb/rte-schematics",
+          "hardwareLicense": "CERN",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2020-03-06T00:00-05:00"
+      },
+      {
+          "oshwaUid": "US002610",
+          "responsibleParty": "Noah Taylor",
+          "country": "United States of America",
+          "publicContact": "contact@strayfade.com",
+          "projectName": "sf2040",
+          "projectWebsite": "https://strayfade.com/en/sf2040",
+          "projectVersion": "1.0",
+          "projectDescription": "The sf2040 is a mechanical 76-key keyboard based on the RP2040 microcontroller from Raspberry Pi. The reason for this project's existence is the need for this keyboard's custom layout. It takes inspiration from the compactness and portability of a traditional 60% mechanical keyboard and expands on it by adding a row of function keys at the top for ease-of-use in more technical applications.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "3D Printing",
+              "Electronics"
+          ],
+          "projectKeywords": [
+              "Keyboard",
+              "RP2040",
+              "SF2040",
+              "Raspberry Pi",
+              "QMK",
+              "Keyboard",
+              "Cherry MX"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/strayfade/sf2040",
+          "hardwareLicense": "GPL-3.0-only",
+          "softwareLicense": "GPL",
+          "documentationLicense": "GPL-3.0-only",
+          "certificationDate": "2024-02-22T00:00-05:00"
+      },
+      {
+          "oshwaUid": "US000734",
+          "responsibleParty": "SparkFun Electronics",
+          "country": "United States of America",
+          "publicContact": "support@sparkfun.com",
+          "projectName": "SparkFun Qwiic Pro Micro - USB-C (ATmega32U4)",
+          "projectWebsite": "https://www.sparkfun.com/products/15795",
+          "projectVersion": "v20",
+          "projectDescription": "The SparkFun Qwiic Pro Micro is a revision of the original Pro Micro and is, overall, functionally the same as the previous version. The board is the same size as the original Pro Micro but we added a few additional features by shrinking down some components on the board such as a reset button, Qwiic connector, USB-C, and castellated pads (this makes it really handy for you custom keyboard creators out there)! Think the Pro Mini except with an ATmega32U4 on board and full USB functionality.",
+          "primaryType": "Electronics",
+          "projectKeywords": [
+              "SparkFun",
+              " Qwiic"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/sparkfun/Pro_Micro/tree/USBC",
+          "hardwareLicense": "CERN",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2020-11-30T00:00-05:00"
+      },
+      {
+          "oshwaUid": "US000769",
+          "responsibleParty": "SparkFun Electronics",
+          "country": "United States of America",
+          "publicContact": "support@sparkfun.com",
+          "projectName": "SparkFun Servo pHat for Rasberry Pi",
+          "projectWebsite": "https://www.sparkfun.com/products/15316",
+          "projectVersion": "v21",
+          "projectDescription": "The Servo pHAT also adds a serial terminal connection, which will allow you to bring up a Raspberry Pi without having to hook it up to a monitor and keyboard. We have provided a Qwiic connector for easy interfacing with the I2C bus using the Qwiic system, and a 4-pin header specifically for connecting to the Sphero RVR. Power to the SparkFun Servo pHAT can be supplied through USB-C connector.",
+          "primaryType": "Electronics",
+          "projectKeywords": [
+              "SparkFun",
+              " Rasberry Pi"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/sparkfun/Pi_Servo_Hat/tree/v20",
+          "hardwareLicense": "CERN",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2020-12-04T00:00-05:00"
+      },
+      {
+          "oshwaUid": "TH000005",
+          "responsibleParty": "Anuchit Chalothorn",
+          "country": "Thailand",
+          "publicContact": "anoochit@gmail.com",
+          "projectName": "STEEMDEX",
+          "projectWebsite": "https://github.com/anoochit/steemdex",
+          "projectVersion": "1.0",
+          "projectDescription": "An 8 Bluetooth keyboard, so you can customize your own shortcut key to control your application on computer, mobile phone, or tablet.",
+          "primaryType": "Electronics",
+          "projectKeywords": [
+              "Bluetooth Keyboard",
+              " Key Pad"
+          ],
+          "citations": [],
+          "documentationUrl": "",
+          "hardwareLicense": "CERN",
+          "softwareLicense": "MIT",
+          "documentationLicense": "CC BY",
+          "certificationDate": "2021-02-11T00:00-05:00"
+      },
+      {
+          "oshwaUid": "DE000116",
+          "responsibleParty": "Conor Burns",
+          "country": "Germany",
+          "publicContact": "mail@0xcb.dev",
+          "projectName": "Synth Labs 060 PCB",
+          "projectWebsite": "https://github.com/0xCB-dev/SL-060-PCB",
+          "projectVersion": "1.0",
+          "projectDescription": "This project includes two 60% keyboard PCBs (hotswap / solder) and a USB C daughterboard PCB",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Manufacturing"
+          ],
+          "projectKeywords": [
+              "MK",
+              " Keyboard",
+              " QMK",
+              " VIA"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/0xCB-dev/SL-060-PCB",
+          "hardwareLicense": "CERN-OHL-S-2.0",
+          "softwareLicense": "GPL",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2021-09-16T00:00-04:00"
+      },
+      {
+          "oshwaUid": "US001062",
+          "responsibleParty": "System76",
+          "country": "United States of America",
+          "publicContact": "info@system76.com",
+          "projectName": "System76 Launch Configurable Keyboard",
+          "projectWebsite": "https://system76.com/accessories/launch",
+          "projectVersion": "1.0",
+          "projectDescription": "The System76 Launch Configurable Keyboard is designed to provide the ultimate user controlled keyboard experience, with open source mechanical and electrical design, open source firmware and associated software, and a large number of user configuration opportunities.",
+          "primaryType": "Electronics",
+          "projectKeywords": [
+              "Keyboard",
+              " QMK",
+              " Linux"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/system76/launch",
+          "hardwareLicense": "Other",
+          "softwareLicense": "GPL",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2021-02-17T00:00-05:00"
+      },
+      {
+          "oshwaUid": "US002131",
+          "responsibleParty": "System76",
+          "country": "United States of America",
+          "publicContact": "info@system76.com",
+          "projectName": "System76 Launch Heavy Configurable Keyboard",
+          "projectWebsite": "https://system76.com/accessories/launch",
+          "projectVersion": "1.0",
+          "projectDescription": "The System76 Launch Heavy Configurable Keyboard is designed to provide the ultimate user controlled keyboard experience, with open source mechanical and electrical design, open source firmware and associated software, and a large number of user configuration opportunities.",
+          "primaryType": "Other",
+          "projectKeywords": [
+              "Keyboard",
+              " QMK",
+              " Linux"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/system76/launch",
+          "hardwareLicense": "Other",
+          "softwareLicense": "GPL-3.0-only",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2022-10-21T00:00-04:00"
+      },
+      {
+          "oshwaUid": "US002092",
+          "responsibleParty": "System76",
+          "country": "United States of America",
+          "publicContact": "info@system76.com",
+          "projectName": "System76 Launch Lite Configurable Keyboard",
+          "projectWebsite": "https://system76.com/accessories/launch",
+          "projectVersion": "1.0",
+          "projectDescription": "The System76 Launch Lite Configurable Keyboard is designed to provide the ultimate user controlled keyboard experience, with open source mechanical and electrical design, open source firmware and associated software, and a large number of user configuration opportunities.",
+          "primaryType": "Electronics",
+          "projectKeywords": [
+              "Keyboard",
+              " QMK",
+              " Linux"
+          ],
+          "citations": [],
+          "documentationUrl": "https://github.com/system76/launch",
+          "hardwareLicense": "Other",
+          "softwareLicense": "GPL-3.0-only",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2022-03-23T00:00-04:00"
+      },
+      {
+          "oshwaUid": "UK000055",
+          "responsibleParty": "Bela / Augmented Instruments Ltd.",
+          "country": "United Kingdom",
+          "publicContact": "info@bela.io",
+          "projectName": "Trill Hex",
+          "projectWebsite": "https://bela.io/trill",
+          "projectVersion": "REV C",
+          "projectDescription": "Trill Hex is a hexagonal, 2-axis x/y sensor which also senses touch size. Its hexagonal shape makes it ideal for experimenting with tessellation and creating isomorphic keyboards. Trill Hex uses a QWIIC connector.",
+          "primaryType": "Arts",
+          "additionalType": [
+              "Arts",
+              "Education",
+              "Electronics",
+              "Science",
+              "Sound",
+              "Other"
+          ],
+          "projectKeywords": [
+              "Interaction Design",
+              " Human Computer Interaction",
+              " HCI",
+              " Interface",
+              " Capacitive Touch",
+              " capsense",
+              " infineon",
+              " psoc"
+          ],
+          "citations": [],
+          "documentationUrl": "https://bela.io/trill",
+          "hardwareLicense": "CC-BY-SA-4.0",
+          "softwareLicense": "GPL",
+          "documentationLicense": "CC-BY-SA-4.0",
+          "certificationDate": "2023-10-31T00:00-04:00"
+      },
+      {
+          "oshwaUid": "NL000009",
+          "responsibleParty": "Sam Bitter",
+          "country": "Netherlands",
+          "publicContact": "mail@0xcb.dev",
+          "projectName": "Tutelpad",
+          "projectWebsite": "https://github.com/0xCB-dev/0xCB-TutelPad",
+          "projectVersion": "1.0",
+          "projectDescription": "A Pro Micro-based macropad with an OLED screen in the middle.",
+          "primaryType": "Electronics",
+          "additionalType": [
+              "Electronics",
+              "Manufacturing",
+              "Tool"
+          ],
+          "projectKeywords": [
+              "QMK",
+              " Keyboard",
+              " Pro Micro"
+          ],
+          "citations": [
+              {
+                  "url": "https://github.com/qmk/qmk_firmware",
+                  "title": "QMK"
+              }
+          ],
+          "documentationUrl": "https://github.com/0xCB-dev/0xCB-TutelPad",
+          "hardwareLicense": "CERN-OHL-S-2.0",
+          "softwareLicense": "GPL-3.0-or-later",
+          "documentationLicense": "CC BY-SA",
+          "certificationDate": "2022-05-06T00:00-04:00"
+      }
+  ]
+}
