@@ -2,7 +2,8 @@
 # It is used to create an instance of the class with the data from the API response.
 
 class Oshwa
-  attr_accessor :oshwa_uid,
+  attr_accessor :id,
+                :oshwa_uid,
                 :responsible_party,
                 :country,
                 :public_contact,
@@ -19,6 +20,8 @@ class Oshwa
                 :certification_date
 
   def initialize(data)
+    # id is needed for the serializer to work
+    @id = data["id"]
     # @desired_attribute = data["desiredAttribute"] converts camelCase to snake_case
     @oshwa_uid = data["oshwaUid"]
     @responsible_party = data["responsibleParty"]
