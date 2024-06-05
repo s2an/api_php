@@ -18,7 +18,7 @@ RSpec.describe "Oshwa index page", type: :feature do
                 
         visit oshwas_path
 
-        expect(page).to have_content("OSHWA Certified Projects")
+        expect(page).to have_content("Display API Call: OSHWA Certified Projects")
     end
   end
 end
