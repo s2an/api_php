@@ -2,7 +2,7 @@
 # It is used to create an instance of the class with the data from the API response.
 
 class Oshwa
-  attr_accessor :id,
+  attr_reader :id,
                 :oshwa_uid,
                 :responsible_party,
                 :country,
