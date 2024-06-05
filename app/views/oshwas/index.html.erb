@@ -1,11 +1,34 @@
-<h1>OSHWA Certified Projects</h1>
+<h1>Display API Call: OSHWA Certified Projects</h1>
 
-  <ul>
-  <% @projects.each do |project| %>
-    <div>
-      <li>Name: <%= project.project_name %></li>
-      <li>Type: <%= project.primary_type %></li>
-      <li>Description: <%= project.project_description %></li><br>
-    </div>
+<% if @oshwas.present? %>
+  <%= will_paginate @oshwas %>
+
+  <div class="grid">
+    <% @oshwas.each do |oshwa| %>
+      <div class="grid-item">
+        <h3><%= oshwa.project_name %></h3>
+        <p><%= oshwa.additional_type %>
+        <p><%= oshwa.project_description %></p>
+      </div>
     <% end %>
-  </ul>
+  </div>
+
+  <%= will_paginate @oshwas %>
+
+<% else %>
+  <p>No OSHWA projects found.</p>
+<% end %>
+
+<style>
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 16px;
+  }
+  .grid-item {
+    padding: 16px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+</style>
