@@ -17,7 +17,7 @@ RSpec.describe "Oshwa index page", type: :feature do
         .to_return(status: 200, body: json_response, headers: {})
                 
         visit oshwas_path
-
+save_and_open_page
         expect(page).to have_content("OSHWA Certified Projects")
     end
   end

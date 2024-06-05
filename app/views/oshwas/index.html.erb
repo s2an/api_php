@@ -1,1 +1,11 @@
 <h1>OSHWA Certified Projects</h1>
+
+  <ul>
+  <% @projects.each do |project| %>
+    <div>
+      <li>Name: <%= project.project_name %></li>
+      <li>Type: <%= project.primary_type %></li>
+      <li>Description: <%= project.project_description %></li><br>
+    </div>
+    <% end %>
+  </ul>
